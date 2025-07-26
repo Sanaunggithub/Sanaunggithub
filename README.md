@@ -19,56 +19,20 @@
 
 ### 💪 Programming Skills
 
-<div style="display: flex; flex-direction: column; gap: 10px;">
-  <div>
-    <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-      <span>JavaScript</span>
-      <span>90%</span>
-    </div>
-    <div style="width: 100%; height: 20px; background: #eee; border-radius: 10px;">
-      <div style="width: 90%; height: 100%; background: #2ecc71; border-radius: 10px;"></div>
-    </div>
-  </div>
-  
-  <div>
-    <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-      <span>Python</span>
-      <span>90%</span>
-    </div>
-    <div style="width: 100%; height: 20px; background: #eee; border-radius: 10px;">
-      <div style="width: 90%; height: 100%; background: #3498db; border-radius: 10px;"></div>
-    </div>
-  </div>
-  
-  <div>
-    <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-      <span>Java</span>
-      <span>85%</span>
-    </div>
-    <div style="width: 100%; height: 20px; background: #eee; border-radius: 10px;">
-      <div style="width: 85%; height: 100%; background: #e74c3c; border-radius: 10px;"></div>
-    </div>
-  </div>
-  
-  <div>
-    <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-      <span>Rust</span>
-      <span>60%</span>
-    </div>
-    <div style="width: 100%; height: 20px; background: #eee; border-radius: 10px;">
-      <div style="width: 60%; height: 100%; background: #f39c12; border-radius: 10px;"></div>
-    </div>
-  </div>
-  
-  <div>
-    <div style="display: flex; justify-content: space-between; margin-bottom: 5px;">
-      <span>C</span>
-      <span>70%</span>
-    </div>
-    <div style="width: 100%; height: 20px; background: #eee; border-radius: 10px;">
-      <div style="width: 70%; height: 100%; background: #9b59b6; border-radius: 10px;"></div>
-    </div>
-  </div>
+<div align="left">
+<details open>
+<summary>Programming Languages & Skills</summary>
+
+- JavaScript <img src="https://progress-bar.dev/20/?title=▶&color=f1e05a" />
+- Python <img src="https://progress-bar.dev/25/?title=▶&color=3572A5" />
+- Java <img src="https://progress-bar.dev/20/?title=▶&color=b07219" />
+- HTML <img src="https://progress-bar.dev/30/?title=▶&color=e34c26" />
+- CSS <img src="https://progress-bar.dev/30/?title=▶&color=563d7c" />
+- C++ <img src="https://progress-bar.dev/20/?title=▶&color=f34b7d" />
+- C <img src="https://progress-bar.dev/10/?title=▶&color=555555" />
+- Rust <img src="https://progress-bar.dev/10/?title=▶&color=dea584" />
+
+</details>
 </div>
 
 ### 🎨 Frontend

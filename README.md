@@ -16,24 +16,12 @@
 - Java
 - Rust
 - C
+- C++
 
-### 💪 Programming Skills
 
-<div align="left">
-<details open>
-<summary>Programming Languages & Skills</summary>
-
-- JavaScript <img src="https://progress-bar.dev/20/?title=▶&color=f1e05a" />
-- Python <img src="https://progress-bar.dev/25/?title=▶&color=3572A5" />
-- Java <img src="https://progress-bar.dev/20/?title=▶&color=b07219" />
-- HTML <img src="https://progress-bar.dev/30/?title=▶&color=e34c26" />
-- CSS <img src="https://progress-bar.dev/30/?title=▶&color=563d7c" />
-- C++ <img src="https://progress-bar.dev/20/?title=▶&color=f34b7d" />
-- C <img src="https://progress-bar.dev/10/?title=▶&color=555555" />
-- Rust <img src="https://progress-bar.dev/10/?title=▶&color=dea584" />
-
-</details>
-</div>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaunggithub&layout=compact&hide=html" alt="Languages" />
+</p>
 
 ### 🎨 Frontend
 - HTML
@@ -51,24 +39,6 @@
 - SQLite
 - MongoDB
 
-### 📘 Concepts
-- Object-Oriented Programming (OOP)
-- REST API Design
-- Data Structures & Algorithms 
-
----
-
-## 🛠 Projects
-
-| Name | Description | Tech |
-|------|-------------|------|
-| **Personal Finance Tracker** | A terminal-based finance management tool that tracks income & expenses | Python, Pandas, Matplotlib |
-| **Mingalapr Restaurant System** | A GUI-based Myanmar restaurant ordering system with image previews and receipt generation | Python, Tkinter, OOP |
-| **System Monitor App** | A real-time system monitor app inspired by Task Manager | Rust, Iced, Sysinfo |
-
-> 💡 Always building & improving — check my pinned repos for more!
-
----
 
 ## 📫 Contact Me
 

@@ -17,6 +17,9 @@
 - Rust
 - C
 - C++
+- PHP
+- Typescript
+  
 
 
 <p align="left">

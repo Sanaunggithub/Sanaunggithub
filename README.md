@@ -8,9 +8,9 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 🧠 Programming Languages
+### Programming Languages
 - JavaScript
 - Python
 - Java
@@ -26,26 +26,26 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaunggithub&layout=compact&hide=html" alt="Languages" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 - HTML
 - CSS
 - JavaScript
 - React
 
-### 🔧 Backend
+### Backend
 - Node.js
 - Express.js
 - Django
 
-### 🗄️ Databases
+### Databases
 - MySQL
 - SQLite
 - MongoDB
 
-## 📫 Contact Me
+## Contact Me
 
-- 📧 Email: [usasanaung2000@example.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/san-aung-6b150a333/]
+-  Email: [usasanaung2000@example.com]
+-  LinkedIn: [https://www.linkedin.com/in/san-aung-6b150a333/]
 
 ---
 

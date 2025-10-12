@@ -36,9 +36,3 @@
 
 -  Email: [usasanaung2000@example.com]
 -  LinkedIn: [https://www.linkedin.com/in/san-aung-6b150a333/]
-
----
-
-<p align="center">
-  <em>"Build what you can't stop thinking about." 🚀</em>
-</p>

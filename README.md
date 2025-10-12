@@ -1,11 +1,3 @@
-<p align="center">
-   Software Engineering Student at <strong>KMITL</strong> <br>
-   Passionate about building real-world software solutions <br>
-   Always learning and experimenting with new technologies
-</p>
-
----
-
 ## Tech Stack
 
 ### Programming Languages

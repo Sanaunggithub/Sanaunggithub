@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm San Aung </h1>
-
 <p align="center">
    Software Engineering Student at <strong>KMITL</strong> <br>
    Passionate about building real-world software solutions <br>

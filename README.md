@@ -1,14 +1,14 @@
 ## Tech Stack
 
 ### Programming Languages
-- JavaScript
-- Python
-- Java
-- Rust
-- C
-- C++
-- PHP
-- Typescript
+### Languages and Tools:
+
+#### Using:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,python,java,rust,c,cpp,php,typescript,react,tailwind,nodejs,express,django,sqlite,mysql,mongodb&theme=dark" />
+</div>
+
   
 
 

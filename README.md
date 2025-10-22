@@ -6,31 +6,12 @@
 #### Using:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,python,java,rust,c,cpp,php,typescript,react,tailwind,nodejs,express,django,sqlite,mysql,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,rust,c,cpp,php,react,tailwind,nodejs,express,django,sqlite,mysql,mongodb&theme=dark" />
 </div>
-
-  
-
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanaunggithub&layout=compact&hide=html" alt="Languages" />
 </p>
-
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React
-
-### Backend
-- Node.js
-- Express.js
-- Django
-
-### Databases
-- MySQL
-- SQLite
-- MongoDB
 
 ## Contact Me
 

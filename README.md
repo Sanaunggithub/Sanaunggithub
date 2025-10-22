@@ -1,9 +1,4 @@
-## Tech Stack
-
-### Programming Languages
 ### Languages and Tools:
-
-#### Using:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,rust,c,cpp,php,react,tailwind,nodejs,express,django,sqlite,mysql,mongodb&theme=dark" />

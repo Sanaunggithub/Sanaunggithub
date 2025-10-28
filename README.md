@@ -1,4 +1,4 @@
-### Languages and Tools:
+Languages and Tools:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,rust,c,cpp,php,react,tailwind,nodejs,express,django,sqlite,mysql,mongodb&theme=dark" />

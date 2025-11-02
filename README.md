@@ -8,4 +8,3 @@ Languages and Tools:
 ## Contact Me
 
 -  Email: [usasanaung2000@example.com]
--  LinkedIn: [https://www.linkedin.com/in/san-aung-6b150a333/]

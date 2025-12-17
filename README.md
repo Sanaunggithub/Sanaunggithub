@@ -4,6 +4,5 @@ Languages and Tools:
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,python,java,rust,c,cpp,nextjs,react,tailwind,nodejs,express,django,sqlite,mysql,mongodb&theme=dark" />
 </div>
 
-
 ## Contact Me
 -  Email: [usasanaung2000@example.com]
